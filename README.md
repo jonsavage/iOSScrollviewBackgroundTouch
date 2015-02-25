@@ -71,14 +71,4 @@ Follow the step on the image.</div>
 <div class="separator" style="clear: both; text-align: left;">
 9. That's it. It should be ready to run.</div>
 <div class="separator" style="clear: both; text-align: left;">
-<br /></div>
-<div class="separator" style="clear: both; text-align: left;">
-GitHub Project link&nbsp;</div>
-<div class="separator" style="clear: both; text-align: left;">
-https://github.com/jsavage06/iOSScrollviewBackgroundTouch </div>
-<div class="separator" style="clear: both; text-align: left;">
-<br /></div>
-<br />
-<br />
-<br />
-<br />
+
